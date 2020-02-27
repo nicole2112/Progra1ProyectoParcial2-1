@@ -7,6 +7,7 @@ public class Progra1Proyecto2 {
     public static void main(String[] args) {
        Scanner lea = new Scanner(System.in);
        int posicion =0;
+       int conteo;
        while(true){
        
        Player();
